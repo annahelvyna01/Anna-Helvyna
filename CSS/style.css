@@ -1,0 +1,60 @@
+body{
+    background: url(../images/images.jfif);
+}
+    .input{
+        background-color: burlywood;
+        padding: 1.04167%;
+        float: left;
+        width: none;
+    }
+    .tabel1 {
+	float: left;
+    width: 95.833%; 
+    }
+    .tabel1 tr th {
+        width: 100%;
+        margin-top: 50px;
+        text-align: center;
+    }
+    .tabel1, th, td{
+        padding: 8px 20px;
+        text-align: center;
+    }
+    .isi{
+        font-size:1.125em;
+        height: 25px;
+        width: 100%;
+        border-radius: 5px;
+        text-align:center;
+        padding-top:2px;
+    }
+    .button{
+        font-size:3em;
+        height: 25px;
+        width: 100%;
+        text-align:center;
+    }
+    .title{
+        font-size:2em;
+        height: 25px;
+        width: 500%;
+        border-radius: 5px;
+        text-align:center;
+        padding-top:2px;
+    }
+    #tabel2{
+        background-color: lightskyblue;
+        height: 25x;
+        width: 50%;
+        border-radius: 5px;
+        text-align:center;
+        }
+        #tabel2 tr th {
+            width: 100%;
+            margin-top: 50px;
+            text-align: center;
+        }
+        #tabel2, th, td{
+            padding: 8px 20px;
+            text-align: center;
+        }
